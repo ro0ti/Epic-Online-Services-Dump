@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Runtime.CompilerServices;
 using Epic.OnlineServices.AntiCheatCommon;
-using Il2CppDummyDll;
+// Dumped by ro0ti
 
 namespace Epic.OnlineServices.AntiCheatClient
 {

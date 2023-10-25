@@ -26,7 +26,7 @@ using Epic.OnlineServices.Stats;
 using Epic.OnlineServices.TitleStorage;
 using Epic.OnlineServices.UI;
 using Epic.OnlineServices.UserInfo;
-using Il2CppDummyDll;
+// Dumped by ro0ti
 
 namespace Epic.OnlineServices.Platform
 {

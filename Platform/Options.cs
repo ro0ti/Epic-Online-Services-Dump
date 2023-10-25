@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Runtime.CompilerServices;
 using Epic.OnlineServices.IntegratedPlatform;
-using Il2CppDummyDll;
+// Dumped by ro0ti
 
 namespace Epic.OnlineServices.Platform
 {

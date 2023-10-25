@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Runtime.InteropServices;
 using Epic.OnlineServices.Auth;
-using Il2CppDummyDll;
+// Dumped by ro0ti
 
 namespace Epic.OnlineServices
 {

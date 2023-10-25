@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using Epic.OnlineServices.Achievements;
 using Epic.OnlineServices.Auth;
 using Epic.OnlineServices.Platform;
-using Il2CppDummyDll;
+// Dumped by ro0ti
 using UnityEngine;
 
 namespace Epic.OnlineServices

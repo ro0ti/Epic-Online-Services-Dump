@@ -1,7 +1,7 @@
 ﻿using System;
 using System.ComponentModel;
 using System.Runtime.CompilerServices;
-using Il2CppDummyDll;
+// Dumped by ro0ti
 
 // Token: 0x02000002 RID: 2
 [Token(Token = "0x2000002")]

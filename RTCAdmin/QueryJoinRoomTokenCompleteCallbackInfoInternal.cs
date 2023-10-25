@@ -1,5 +1,5 @@
 ﻿using System;
-using Il2CppDummyDll;
+// Dumped by ro0ti
 
 namespace Epic.OnlineServices.RTCAdmin
 {
